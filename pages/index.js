@@ -11,7 +11,7 @@ const Home = () => {
       <main>
         <section className={`hero ${styles.hero}`}>
           <h1>Welcome to My Portfolio</h1>
-          <p>I'm David Busuru, a passionate software developer and IT student.</p>
+          <p>I am David Busuru, a passionate software developer and IT student.</p>
           <div>
             <Image
               src="/profile.jpg"
