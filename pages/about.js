@@ -9,9 +9,8 @@ const About = () => {
         
         <div className="container my-5 flex-fill">
           <h2>About me</h2>
-          
-          <p>I&apos;m 
-          David Busuru, a tech-savvy explorer who navigates the digital realm with the precision of a coder and the curiosity of a lifelong learner. My journey in the world of technology is driven by a blend of creativity and logic, making me a versatile force in software development and digital marketing.
+          <p>
+            I am David Busuru, a tech-savvy explorer who navigates the digital realm with the precision of a coder and the curiosity of a lifelong learner. My journey in the world of technology is driven by a blend of creativity and logic, making me a versatile force in software development and digital marketing.
           </p>
 
           <div className="row mt-4">
