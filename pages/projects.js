@@ -3,7 +3,7 @@ import Footer from '../components/Footer';
 
 const Projects = () => {
   return (
-    <div>
+    <div className='wrapper'>
       <Header />
       <main className="container mt-5">
         <h1 className="display-4">My Projects</h1>

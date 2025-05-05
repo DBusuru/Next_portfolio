@@ -1,9 +1,9 @@
 // components/Footer.js
 const Footer = () => {
     return (
-      <footer className="footer bg-dark text-white text-center py-4 mt-auto">
-        <p>&copy; 2025 David Busuru. All Rights Reserved.</p>
-      </footer>
+      <footer className="footer">
+    © 2025 David Busuru. All Rights Reserved.
+  </footer>
     );
   };
   

@@ -3,14 +3,12 @@ import Footer from '../components/Footer';
 
 const Contact = () => {
   return (
-    <div>
+    <div className='wrapper'>
       <Header />
       
       <main style={{ padding: '40px 20px' }}>
         <div className="container">
           <h1 className="text-center mb-4">Contact Us</h1>
-          <p className="text-center mb-5">If you have any questions, please reach out to us using the form below.</p>
-
           <form className="mx-auto" style={{ maxWidth: '600px' }}>
             <div className="mb-3">
               <label htmlFor="name" className="form-label">Your Name</label>
